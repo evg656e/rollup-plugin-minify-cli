@@ -1,0 +1,27 @@
+{
+  "name": "rollup-plugin-minify-cli",
+  "version": "1.0.0",
+  "description": "Rollup plugin to minify bundles through command line interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evg656e/rollup-plugin-minify-cli.git"
+  },
+  "keywords": [
+    "rollup",
+    "plugin",
+    "minify"
+  ],
+  "author": "evg656e <evg656e@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/evg656e/rollup-plugin-minify-cli/issues"
+  },
+  "homepage": "https://github.com/evg656e/rollup-plugin-minify-cli#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
